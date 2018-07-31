@@ -1,19 +1,18 @@
-Kotlin Guides
-=============
+Kotlin 指南
 
-Source for the [Android Kotlin Guides][1] website.
+[Android Kotlin Guides][1]网站的来源。
 
-For contributor information, see the [website][2].
-
+有关贡献者的信息，请参阅[网站][2]。
 
 
-License
+
+许可
 -------
 
-See ["Content License"][3].
+见[“内容许可”][3]。
 
 
 
- [1]: https://android.github.io/kotlin-guides/
- [2]: https://android.github.io/kotlin-guides/contribute.html
+ [1]: https://msdx.github.io/kotlin-guides/
+ [2]: https://msdx.github.io/kotlin-guides/contribute.html
  [3]: https://developer.android.com/license.html
