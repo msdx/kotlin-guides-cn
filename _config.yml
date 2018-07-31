@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: >
   Official guides for developing Kotlin on Android.
 baseurl: "/kotlin-guides"
-url: "https://android.github.io"
+url: "https://msdx.github.io"
 
 # Build settings
 markdown: kramdown
