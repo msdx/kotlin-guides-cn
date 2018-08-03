@@ -13,6 +13,6 @@ Kotlin 指南
 
 
 
- [1]: https://msdx.github.io/kotlin-guides/
- [2]: https://msdx.github.io/kotlin-guides/contribute.html
+ [1]: https://msdx.github.io/kotlin-guides-cn/
+ [2]: https://msdx.github.io/kotlin-guides-cn/contribute.html
  [3]: https://developer.android.com/license.html
