@@ -1,8 +1,8 @@
 # Site settings
-title: Android Kotlin Guides
+title: Android Kotlin 指南
 email: your-email@domain.com
 description: >
-  Official guides for developing Kotlin on Android.
+  关于在 Android 上的 Kotlin 开发的官方指南。
 baseurl: "/kotlin-guides-cn"
 url: "https://msdx.github.io"
 
