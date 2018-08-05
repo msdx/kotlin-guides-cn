@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 风格指导
+title: 风格指南
 site_nav_category_order: 200
 is_site_nav_category: true
 site_nav_category: style
@@ -10,7 +10,7 @@ site_nav_category: style
 
 与其他的编程风格指南一样，这里所涉及的问题不仅包括格式化的美观问题，也涉及了其他的约定及编码标准。但是，本文档主要关注我们普遍遵循的硬性规定，并避免给出不明确可执行（无论是通过人工还是工具）的建议。
 
-_<a href="changelog.html">Last update: {{ site.changes.last.date | date: "%Y-%m-%d" }}</a>_
+_<a href="changelog.html">上次更新于： {{ site.changes.last.date | date: "%Y-%m-%d" }}</a>_
 
 # 源文件
 
