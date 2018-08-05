@@ -1,6 +1,6 @@
 Kotlin 指南
 
-[Android Kotlin Guides][1]网站的来源。
+[Android Kotlin 指南][1] 网站的来源。
 
 有关贡献者的信息，请参阅[网站][2]。
 
