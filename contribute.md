@@ -10,7 +10,7 @@ is_site_nav_category: true
 
 如果想为本网站做贡献，小的修改可以直接创建 Pull Request；对于更大的贡献，我们建议先在 [issue tracker](https://github.com/android/kotlin-guides/issues)上创建一个 issue。
 
-Pull Request 应该针对 [GitHub 仓库](https://github.com/android/kotlin-guides)中的 `master` 分支。每隔几周我们就会更新[修改日志](changelog.html)将被更新，并且该时间段内的所有更改发布到 `gh-pages` 分支。
+Pull Request 应该针对 [GitHub 仓库](https://github.com/android/kotlin-guides)中的 `master` 分支。每隔几周我们就会更新[修改日志](changelog.html)，并且将段时间内的所有修改发布到 `gh-pages` 分支。
 
 **我们期待大家的所有贡献！**
 
