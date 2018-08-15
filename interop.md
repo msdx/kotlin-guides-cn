@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 互通指导
+title: 互操作指导
 site_nav_category: interop
 is_site_nav_category: true
 site_nav_category_order: 300
@@ -404,7 +404,7 @@ public class JavaClass {
 
 ## 支持的检查
 
-现在有 Android Lint 检查可以帮助你检测和标记上述一些互通性的问题。目前仅检测 Java 中的问题（被 Kotlin 调用）。具体来说，所支持的检查有：
+现在有 Android Lint 检查可以帮助你检测和标记上述一些互操作性的问题。目前仅检测 Java 中的问题（被 Kotlin 调用）。具体来说，所支持的检查有：
 
 * 未知的可为空性
 * 属性访问
@@ -413,7 +413,7 @@ public class JavaClass {
 
 ## Android Studio
 
-要启用这些检查，请转到 **File > Preferences> Editor > Inspections**，并检查你想要在 Kotlin 互通性下启用的规则：
+要启用这些检查，请转到 **File > Preferences> Editor > Inspections**，并检查你想要在 Kotlin 互操作性下启用的规则：
 
 <img src="{{ site.baseurl }}/assets/kotlin_interop_checks_settings.png"/>
 
